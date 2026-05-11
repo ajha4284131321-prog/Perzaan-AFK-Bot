@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ajpro42.aternos.me:45830",
+    "ip": "ajpro42.aternos.me",
     "port": 45830,
     "version": "1.21.1"
   },
